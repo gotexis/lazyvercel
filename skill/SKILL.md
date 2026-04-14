@@ -64,5 +64,6 @@ blocked_envs:
 ## Key Rules
 
 - NEVER use raw `vercel` if avercel is available — it prevents env var corruption
+- NEVER use `npx vercel` — this bypasses avercel's guardrails entirely. Always use `avercel` or `vercel` (after takeover)
 - NEVER use `vercel deploy` or `vercel build` — push to Git instead
 - Always check `avercel env check` after bulk env updates
