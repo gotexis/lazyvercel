@@ -21,16 +21,16 @@
     "wrapper",
     "devtools"
   ],
-  "author": "gotexis",
+  "author": "exisz",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gotexis/avercel.git"
+    "url": "git+https://github.com/exisz/avercel.git"
   },
   "bugs": {
-    "url": "https://github.com/gotexis/avercel/issues"
+    "url": "https://github.com/exisz/avercel/issues"
   },
-  "homepage": "https://github.com/gotexis/avercel#readme",
+  "homepage": "https://github.com/exisz/avercel#readme",
   "engines": {
     "node": ">=18"
   },
@@ -45,6 +45,7 @@
   },
   "files": [
     "dist",
+    "skill",
     "README.md",
     "LICENSE"
   ]

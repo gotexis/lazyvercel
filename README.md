@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/avercel)](https://www.npmjs.com/package/avercel)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![CI](https://github.com/gotexis/avercel/actions/workflows/ci.yml/badge.svg)](https://github.com/gotexis/avercel/actions/workflows/ci.yml)
+[![CI](https://github.com/exisz/avercel/actions/workflows/ci.yml/badge.svg)](https://github.com/exisz/avercel/actions/workflows/ci.yml)
 
 > Agent-Vercel: an opinionated Vercel CLI wrapper that fixes the things that drive you crazy.
 
