@@ -4,8 +4,9 @@ const VERCEL_SUBCOMMANDS = new Set([
   'dev', 'env', 'domains', 'dns', 'certs', 'secrets', 'logs', 'inspect',
   'deploy', 'remove', 'rm', 'ls', 'list', 'alias', 'bisect', 'build',
   'link', 'login', 'logout', 'pull', 'rollback', 'promote', 'redeploy',
-  'switch', 'teams', 'whoami', 'project', 'integration', 'target',
+  'switch', 'teams', 'whoami', 'project', 'projects', 'integration', 'target',
   'telemetry', 'blob', 'help', 'init', 'git', 'config', 'takeover',
+  'domain', 'cert', 'secret', 'log', 'aliases',
 ]);
 
 const DEPLOY_FLAGS = new Set([
