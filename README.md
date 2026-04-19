@@ -252,3 +252,4 @@ MIT — see [LICENSE](LICENSE).
 If avercel saved you from a trailing newline nightmare, consider giving it a ⭐ on GitHub — it helps others discover the project.
 
 [⭐ Star on GitHub](https://github.com/exisz/avercel)
+<!-- pipeline migrated to single-workflow per cicd-no-bot-tag-trigger -->
