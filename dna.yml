@@ -1,0 +1,9 @@
+id: dna://tool/avercel
+type: tool
+title: avercel — Safe Vercel CLI wrapper
+description: Safe Vercel CLI wrapper with list/inspect/logs commands. Wraps the official Vercel CLI with safer defaults.
+command: avercel
+package_name: avercel
+homepage: https://github.com/exisz/avercel
+status: active
+managed_by: dna://agent/nebula
